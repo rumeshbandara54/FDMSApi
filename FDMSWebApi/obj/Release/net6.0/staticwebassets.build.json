@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "hduPERF2DTVUJTWvG69MOWZXi0eJ5N334vPZ6Gzcjak=",
+  "Source": "FDMSWebApi",
+  "BasePath": "_content/FDMSWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,195 @@
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.exe
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.deps.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.runtimeconfig.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.pdb
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.FDMSWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FDMSWebApi.props
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FDMSWebApi.props
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FDMSWebApi.props
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\scopedcss\bundle\FDMSWebApi.styles.css
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.CopyComplete
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\refint\FDMSWebApi.dll
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.pdb
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\ref\FDMSWebApi.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\appsettings.Development.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\appsettings.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.exe
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.deps.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.runtimeconfig.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.pdb
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.AssemblyReference.cache
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.AssemblyInfoInputs.cache
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.AssemblyInfo.cs
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.CoreCompileInputs.cache
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.MvcApplicationPartsAssemblyInfo.cs
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.MvcApplicationPartsAssemblyInfo.cache
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.FDMSWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FDMSWebApi.props
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FDMSWebApi.props
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FDMSWebApi.props
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets.build.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\staticwebassets.development.json
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\scopedcss\bundle\FDMSWebApi.styles.css
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.CopyComplete
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\refint\FDMSWebApi.dll
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.pdb
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.genruntimeconfig.cache
+A:\project ios .net\api part\FDMSWebApi\FDMSWebApi\obj\Debug\net6.0\ref\FDMSWebApi.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\appsettings.Development.json
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\appsettings.json
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.exe
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.deps.json
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.runtimeconfig.json
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\FDMSWebApi.pdb
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.Drawing.Common.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.Runtime.Caching.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.Security.Permissions.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\System.Windows.Extensions.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+A:\Assigment ios\new\FDMSWebApi\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.AssemblyReference.cache
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.GeneratedMSBuildEditorConfig.editorconfig
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.AssemblyInfoInputs.cache
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.AssemblyInfo.cs
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.CoreCompileInputs.cache
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.MvcApplicationPartsAssemblyInfo.cs
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.MvcApplicationPartsAssemblyInfo.cache
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.FDMSWebApi.Microsoft.AspNetCore.StaticWebAssets.props
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.build.FDMSWebApi.props
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.FDMSWebApi.props
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.FDMSWebApi.props
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets.pack.json
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets.build.json
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\staticwebassets.development.json
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\scopedcss\bundle\FDMSWebApi.styles.css
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.csproj.CopyComplete
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.dll
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\refint\FDMSWebApi.dll
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.pdb
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\FDMSWebApi.genruntimeconfig.cache
+A:\Assigment ios\new\FDMSWebApi\obj\Debug\net6.0\ref\FDMSWebApi.dll
