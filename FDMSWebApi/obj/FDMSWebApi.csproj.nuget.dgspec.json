@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Assigment ios\\new\\FDMSWebApi\\FDMSWebApi.csproj": {}
+    "A:\\Assigment ios\\new\\FDMSApi\\FDMSWebApi\\FDMSWebApi.csproj": {}
   },
   "projects": {
-    "A:\\Assigment ios\\new\\FDMSWebApi\\FDMSWebApi.csproj": {
+    "A:\\Assigment ios\\new\\FDMSApi\\FDMSWebApi\\FDMSWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Assigment ios\\new\\FDMSWebApi\\FDMSWebApi.csproj",
+        "projectUniqueName": "A:\\Assigment ios\\new\\FDMSApi\\FDMSWebApi\\FDMSWebApi.csproj",
         "projectName": "FDMSWebApi",
-        "projectPath": "A:\\Assigment ios\\new\\FDMSWebApi\\FDMSWebApi.csproj",
+        "projectPath": "A:\\Assigment ios\\new\\FDMSApi\\FDMSWebApi\\FDMSWebApi.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "A:\\Assigment ios\\new\\FDMSWebApi\\obj\\",
+        "outputPath": "A:\\Assigment ios\\new\\FDMSApi\\FDMSWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
