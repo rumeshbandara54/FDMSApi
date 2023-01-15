@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DAXnq4lvTCPGJJ7+ozWLEuOvOeHwklxc9leNivLpHmudwjs+vT998LHPZFrYhiIFoQptZZNrmAnca+6XArLfzA==",
+  "dgSpecHash": "gIZGU4D+kanvcVwZN43ENdfRKhr4SBuNYcRY6nMuF6vEaQheCQRVhNPr09m9vaoCx/6ido8p3Pj3BK7JiuiaaA==",
   "success": true,
-  "projectFilePath": "A:\\Assigment ios\\new\\FDMSApi\\FDMSWebApi\\FDMSWebApi.csproj",
+  "projectFilePath": "A:\\Assigment ios\\api project part\\project\\FDMSApi\\FDMSApi\\FDMSWebApi\\FDMSWebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\USER\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
