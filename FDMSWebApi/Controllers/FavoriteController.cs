@@ -20,7 +20,7 @@ namespace FDMSWebApi.Controllers
         [HttpGet("GetAllFavoritesByUserId", Name = "GetAllFavoritesByUserId")]
         public async Task<IActionResult> GetAllFavoritesByUserId(int userId)
         {
-            var result = await _context.Favouitemarks.ToListAsync();
+            var result = await _context.Favouite.ToListAsync();
             return Ok(result.Where(x => x.UserId == userId));
 
         }
@@ -28,7 +28,7 @@ namespace FDMSWebApi.Controllers
         [HttpGet("GetAllFavorites",Name = "GetAllFavorites")]
         public async Task<IActionResult> GetAllFavorites()
         {
-            var result = await _context.Favouitemarks.ToListAsync();
+            var result = await _context.Favouite.ToListAsync();
             return Ok(result);
 
         }
@@ -36,7 +36,7 @@ namespace FDMSWebApi.Controllers
         [HttpPost("CreateFavorites", Name = "CreateFavorites")]
         public async Task<IActionResult> CreateFavorites(Favorite favorite) 
         {
-            var result = await _context.Favouitemarks.AddAsync(favorite);
+            var result = await _context.Favouite.AddAsync(favorite);
             await _context.SaveChangesAsync();
             return Ok();
         }
@@ -44,10 +44,10 @@ namespace FDMSWebApi.Controllers
         [HttpDelete("RemoveFavorites", Name = "RemoveFavorites")]
         public async Task<IActionResult> RemoveFavorites(int userId, int favoriteId)
         {
-            var result = await _context.Favouitemarks.FirstOrDefaultAsync(x => x.UserId == userId && x.Id == favoriteId);
+            var result = await _context.Favouite.FirstOrDefaultAsync(x => x.UserId == userId && x.Id == favoriteId);
             if (result != null)
             {
-                _context.Favouitemarks.Remove(result);
+                _context.Favouite.Remove(result);
                 await _context.SaveChangesAsync(); 
             }
             return Ok(result);
